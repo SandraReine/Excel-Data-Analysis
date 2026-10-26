@@ -47,11 +47,14 @@ This project was completed during my **Data Technician Bootcamp** and showcases 
 - Applied filters and sorting techniques to explore customer data
 - Calculated total and average commission values using formulas
 - Analysed transaction data to identify patterns and trends
+<img width="766" height="372" alt="image" src="https://github.com/user-attachments/assets/ccae63bb-3981-403f-a053-6dd219795b16" />
 
 ### 🚴 Bike Sales Analysis
 - Used PivotTables to analyse customer purchases across countries
 - Investigated sales performance by age group and gender
 - Identified key market trends and customer demographics
+<img width="691" height="203" alt="image" src="https://github.com/user-attachments/assets/a4bdeb6d-dae1-4482-8333-3cbf73bda231" />
+
 
 ### 💻 Product Sales Volume Analysis
 - Built PivotTables to summarise product sales by county
@@ -101,3 +104,7 @@ Through this project, I strengthened my ability to:
 
 
 > Turning data into insights, one spreadsheet at a time 📊✨
+
+<img width="691" height="398" alt="image" src="https://github.com/user-attachments/assets/b4a3c5bb-e0c6-4e62-a942-7d7ac8e4d6be" />
+
+
